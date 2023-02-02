@@ -1,4 +1,4 @@
-baseURL = 'https://Kakha8.github.io/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "hello-friend"
+theme = "hugo-theme-hello-friend"
